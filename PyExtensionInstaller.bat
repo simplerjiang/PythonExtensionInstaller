@@ -83,7 +83,7 @@ echo.
 ::set  /P INPUT=Type input:%=%
 ::pip install %INPUT%
 
-pip install  numpy-1.14.2+mkl-cp37-cp37m-win_amd64.whl python_dateutil-2.7.3-py2.py3-none-any.whl pytz-2018.4-py2.py3-none-any.whl setuptools-39.2.0-py2.py3-none-any.whl pandas-0.23.0-cp37-cp37m-win_amd64.whl cycler-0.10.0-py2.py3-none-any.whl kiwisolver-1.0.1-cp37-cp37m-win_amd64.whl pyparsing-2.2.0-py2.py3-none-any.whl matplotlib-2.2.2-cp37-cp37m-win_amd64.whl
+pip install numpy-1.14.2+mkl-cp37-cp37m-win_amd64.whl python_dateutil-2.7.3-py2.py3-none-any.whl pytz-2018.4-py2.py3-none-any.whl setuptools-39.2.0-py2.py3-none-any.whl pandas-0.23.0-cp37-cp37m-win_amd64.whl cycler-0.10.0-py2.py3-none-any.whl kiwisolver-1.0.1-cp37-cp37m-win_amd64.whl pyparsing-2.2.0-py2.py3-none-any.whl matplotlib-2.2.2-cp37-cp37m-win_amd64.whl
 pause>nul 
 cls
 echo.
