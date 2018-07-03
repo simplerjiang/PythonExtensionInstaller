@@ -50,7 +50,7 @@ echo Installing Python 3.7
 echo......................
 echo.
 echo Please wait while Python3.7 installs...
-start "" /w /b "python-3.7.0b3-amd64.exe"
+start "" /w /b "python-3.7.0-amd64.exe"
 pause >nul
 cls
 echo.
